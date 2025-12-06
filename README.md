@@ -1,5 +1,8 @@
 # MidTerm-DeepLearning
 
+Nama : Fakhriza Bondan P.
+NIM : 1103223146
+
 - `clusteringmidterm.csv` → untuk `Clustering.ipynb`  
 - `train_transaction.csv`, `test_transaction.csv` → untuk `Fraud_Detection.ipynb`  
 - Dataset regresi (mis. `midterm_regresi.csv`) → untuk `Midterm-Regresi.ipynb`  
